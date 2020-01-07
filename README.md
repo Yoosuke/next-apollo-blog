@@ -6,3 +6,5 @@ For an overview of how things work in `Next.js` please refer to the [Next.js doc
 ```
 git clone https://github.com/GraphCMS/graphcms-examples.git && cd graphcms-examples/current/next-apollo-blog && yarn && yarn dev
 ```
+
+## This Project is a graphcms-examples/current/next-apollo-blog sample custom project.
